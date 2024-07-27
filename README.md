@@ -2,7 +2,7 @@
 
 ## 🌟 About The Project
 
-Infinite Possibilities is a dynamic event management platform created out of a love for crafting unforgettable experiences. Founded in 2011, our goal is to provide unparalleled event services and outstanding customer service for a wide range of occasions, from weddings to corporate galas.
+This Project is a dynamic event management platform created out of a love for crafting unforgettable experiences. Founded in 2011, our goal is to provide unparalleled event services and outstanding customer service for a wide range of occasions, from weddings to corporate galas.
 
 ## 🚀 Features
 
@@ -34,7 +34,7 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username/infinite-possibilities.git
+   git clone https://github.com/AviAcharya1/EventManagement.git
    ```
 2. Install NPM packages
    ```sh
@@ -45,14 +45,13 @@ To get a local copy up and running, follow these simple steps.
    npm start
    ```
 
-## 🖥️ Usage
-
-Use this space to show useful examples of how the project can be used. Additional screenshots, code examples, and demos work well in this space.
-
 ## 🗺️ Roadmap
 
 - [x] Add event booking functionality
 - [x] Implement gallery page
+
+## To be Implemented in UpComing days
+
 - [ ] Add user authentication
 - [ ] Integrate payment gateway
 - [ ] Develop mobile app version
@@ -75,11 +74,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+- aviacharyasr@gmail.com
 
-Project Link: [https://github.com/your_username/infinite-possibilities](https://github.com/your_username/infinite-possibilities)
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [React Icons](https://react-icons.github.io/react-icons/)
 - [Img Shields](https://shields.io)
