@@ -19,6 +19,9 @@ This Project is a dynamic event management platform created out of a love for cr
 - [Material-UI](https://mui.com/)
 - [React Router](https://reactrouter.com/)
 
+## Project is Live @:
+- https://event-management-azure-one.vercel.app/
+
 ## 🏁 Getting Started
 
 To get a local copy up and running, follow these simple steps.
